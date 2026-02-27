@@ -4,10 +4,9 @@
 // Behaviors Constants
 #define TAPPING_TERM_MS 200
 #define TAPPING_TERM_FAST_MS 120
-#define TAPPING_TERM_HRM_MS 280
+#define TAPPING_TERM_HRM_MS 200
 #define QUICK_TAP_MS 175
 #define REQUIRE_PRIOR_IDLE_MS 150
-#define RELEASE_AFTER_MS 900
 
 // Combos Constants
 #define COMBO_TERM 20
