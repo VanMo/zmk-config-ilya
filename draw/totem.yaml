@@ -139,9 +139,9 @@ layers:
   - $$mdi:skip-next$$
   - $$mdi:brightness-7$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - double ctrl
+  - double shift
+  - double gui
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:volume-off$$
@@ -361,6 +361,3 @@ combos:
 - p: [16, 17]
   k: en
   l: [base, symbol]
-- p: [8, 9]
-  k: {t: game, h: '$$mdi:toggle-switch$$'}
-  l: [base]

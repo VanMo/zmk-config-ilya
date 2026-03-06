@@ -505,32 +505,26 @@ rect.combo {
 <text x="800" y="125" class="combo tap">en</text>
 </g>
 <g class="combo combopos-12">
-<rect rx="4" ry="4" x="945" y="53" width="30" height="30" class="combo"/>
-<a href="#game">
-<text x="960" y="68" class="combo tap layer-activator">game</text>
-</a><use href="#mdi:toggle-switch" xlink:href="#mdi:toggle-switch" x="952" y="63" height="16" width="16.0" class="combo hold glyph mdi:toggle-switch"/>
-</g>
-<g class="combo combopos-13">
 <rect rx="4" ry="4" x="225" y="190" width="30" height="30" class="combo"/>
 <use href="#mdi:mouse-left-click" xlink:href="#mdi:mouse-left-click" x="229" y="194" height="22" width="22.0" class="combo tap glyph mdi:mouse-left-click"/>
 </g>
-<g class="combo combopos-14">
+<g class="combo combopos-13">
 <rect rx="4" ry="4" x="785" y="190" width="30" height="30" class="combo"/>
 <use href="#mdi:mouse-left-click" xlink:href="#mdi:mouse-left-click" x="789" y="194" height="22" width="22.0" class="combo tap glyph mdi:mouse-left-click"/>
 </g>
-<g class="combo combopos-15">
+<g class="combo combopos-14">
 <rect rx="4" ry="4" x="145" y="190" width="30" height="30" class="combo"/>
 <use href="#mdi:mouse-right-click" xlink:href="#mdi:mouse-right-click" x="149" y="194" height="22" width="22.0" class="combo tap glyph mdi:mouse-right-click"/>
 </g>
-<g class="combo combopos-16">
+<g class="combo combopos-15">
 <rect rx="4" ry="4" x="865" y="190" width="30" height="30" class="combo"/>
 <use href="#mdi:mouse-right-click" xlink:href="#mdi:mouse-right-click" x="869" y="194" height="22" width="22.0" class="combo tap glyph mdi:mouse-right-click"/>
 </g>
-<g class="combo combopos-17">
+<g class="combo combopos-16">
 <rect rx="4" ry="4" x="145" y="110" width="30" height="30" class="combo"/>
 <use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="149" y="114" height="22" width="22.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
 </g>
-<g class="combo combopos-18">
+<g class="combo combopos-17">
 <rect rx="4" ry="4" x="865" y="110" width="30" height="30" class="combo"/>
 <use href="#mdi:mouse-scroll-wheel" xlink:href="#mdi:mouse-scroll-wheel" x="869" y="114" height="22" width="22.0" class="combo tap glyph mdi:mouse-scroll-wheel"/>
 </g>

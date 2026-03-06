@@ -469,9 +469,6 @@ combos:
 - p: [16, 17]
   k: en
   l: [base, symbol]
-- p: [8, 9]
-  k: {t: game, h: '$$mdi:toggle-switch$$'}
-  l: [base]
 - p: [22, 23]
   k: $$mdi:mouse-left-click$$
   l: [base, symbol, nav, mouse, slow, scroll, caret]
