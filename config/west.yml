@@ -24,7 +24,7 @@ manifest:
   # ZMK
   - name: zmk
     remote: zmkfirmware
-    revision: zmk-0.4
+    revision: 118359c83efa0758144489fd5e12cc6f5bdbad4c
     import: app/west.yml
 
   # Helper
