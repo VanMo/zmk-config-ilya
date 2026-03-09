@@ -24,7 +24,7 @@ manifest:
   # ZMK
   - name: zmk
     remote: zmkfirmware
-    revision: v0.3.0
+    revision: main
     import: app/west.yml
 
   # Helper
@@ -36,7 +36,7 @@ manifest:
   # Driver
   - name: zmk-pmw3610-driver
     remote: badjeff
-    revision: zmk-0.4
+    revision: main
     path: modules/zmk/pmw3610-driver
 
   # Behavior & Input processor
